@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the individual publication and its version DOI."
+title: "Vedic Matters Research"
+type: collection
+authors:
+  - given-names: "Praveen"
+    orcid: "https://orcid.org/0009-0009-0035-8575"
+website: "https://vedicmatters.com/research"
+repository-code: "https://github.com/vedicmatters/vedicmatters-research"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Panchanga as a Classical Indian Calendar and Astronomical Knowledge System"
+  authors:
+    - given-names: "Praveen"
+      orcid: "https://orcid.org/0009-0009-0035-8575"
+  year: 2026
+  version: "1.0"
+  doi: "10.5281/zenodo.24213901"
+  url: "https://vedicmatters.com/research/panchanga-classical-calendar-astronomical-knowledge-system"
